@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+streamlit-authenticator
+streamlit-option-menu
+streamlit-aggrid
+sqlalchemy
+bcrypt
+PyYAML
+python-dotenv
+requests
